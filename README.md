@@ -1,2 +1,2 @@
-# ms-bootcoin
+# ms-bootcoinWallet
 Microservicio para BootCoin
